@@ -1,0 +1,274 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Trello</title>
+		<link rel="stylesheet" href="css/estilotrello.css" />
+	</head>
+
+	<div class="container" id="contenedor">
+		
+		<body>
+			
+			<header>
+				<div id="imgHeader" align="center">
+					<img src="images/header-logo-blue.svg">
+				</div>
+			</header>
+			<!--SECCION 1-->
+			<section id="parte1">
+				<div id="h1" align="center">
+					<article>
+						<h1>Trello es la manera gratuita, flexible y 
+						visual de organizarlo todo con cualquiera.</h1>
+					</article>
+				</div>
+				
+				<div id="article" align="center">
+					<article>
+						<p>Deje a un lado las largas cadenas de correos electrónicos,
+							las hojas de cálculo sin actualizar, las notas rápidas ya 
+							no tan adhesivas y el software inadecuado para gestionar sus 
+							proyectos. Trello le deja ver todo sobre su proyecto de un solo 
+							vistazo.</p>
+					</article>
+				</div>
+				
+				<div id="bottom" align="center">
+					<a href="#"><button>Regístrese.¡Es gratis!</button></a>
+				</div>
+				
+				<div id="Iniciar" align="center">
+					<li><a href="#">Iniciar sesión en..</a></li>
+				</div>
+			</section>
+			<!--FIN DE SECCION 1-->
+			
+			<!--SECCION 2-->
+			<section id="parte2">
+				<div id="tablero" align="center">
+					<article>
+						<p>Esto es un tablero de Trello. Es una lista de listas completada 
+							con tarjetas, utilizada con un equipo o en solitario.</p>
+					</article>
+				</div>
+				
+				<div id="imagenTablero" align="center">
+					<img src="images/home-hero_es.png" />
+				</div>
+				
+				<div id="infoTablero" align="center">
+					<article>
+						<p>Arrastre y suelte tarjetas entre las listas para mostrar el progreso.
+							Añada tantas personas como necesite y arrástrelas a las tarjetas. 
+							Añada y vuelva a ordenar las listas tal como lo necesite.<strong>Trello se 
+							adapta a su proyecto, equipo y flujo de trabajo.</strong> </p>
+					</article>
+				</div>
+				
+				<div id="infoTablero2" align="center">
+					<article>
+						<p>Verá todo sobre su proyecto con tan solo echar un vistazo al tablero, 
+							y todo se actualiza en tiempo real. No hay nada que configurar y todo 
+							el mundo lo obtiene al instante.</p>
+						<!--espacio debajo del texto-->
+						<br /> <br /> <br />
+					</article>
+				</div>
+			</section>
+			<!--FIN DE SECCION 2-->
+			
+			<!--SECCION 3-->
+			<section id="parte3">
+				<div id="articleCazuela" align="center">
+					<article>
+						<p>Trello es simple en la superficie, pero las tarjetas tienen <strong>todo lo necesario
+							para hacer el trabajo</strong>. Publique comentarios para obtener respuesta inmediata. 
+							Cargue archivos desde su ordenador, Google Drive, Dropbox, Box y OneDrive. 
+							Añada checklists, etiquetas, fechas de vencimiento y otros elementos. Con las 
+							notificaciones se puede asegurar de saber siempre cuándo sucede algo importante.</p>
+					</article>
+				</div>
+				
+				<div id="bottomCazuela" align="center">
+					<button>Vea todo lo que puede hacer Trello</button>
+				</div>
+				
+				<div id="imagenCazuela" align="center">
+					<img src="images/home-card-detail_es.png" />
+				</div>
+			</section>
+			<!--FIN DE SECCION 3-->
+			
+			<!--SECCION 4-->
+			<section id="parte4">
+				<div id="Elementos" align="left">
+					<div id="articleElementos">
+						<article>
+							<br /> <br>
+							<p>Trello permanece perfectamente sincronizado en todos sus dispositivos allá donde esté.
+								Hay aplicaciones rápidas e intuitivas para la web, los teléfonos y las tabletas Android, 
+								iPhone y iPad, y Kindle Fire.</p>
+						</article>
+					</div>
+					<div id="imagenes" align="center">
+						<div id="imgAppStore" align="center">
+							<img src="images/app-store-badge_es.svg" />
+						</div>
+						<div id="imgGoogleplay" align="center">
+							<img src="images/play-store-badge_es.png" />
+						</div>
+					</div>
+					<div id="boton" align="center">
+						<button>Ver todas las aplicaciones</button>
+						<br /> <br /> <br /> <br />
+					</div>
+				</div>
+				
+				<div id="imagenDispositivos" align="right">
+					<br /> <br />
+					<img src="images/home-devices.png" />
+					<br /> <br /> <br /> <br />
+				</div>
+			</section>
+			<!--FIN DE SECCION 4-->
+			
+			<!--SECCION 5-->
+			<section id="parte5">
+				<div id="Elementos5">
+					<div id="texto5">
+					<article>
+						<p> Trello nunca le abrumará con funcionalidades que no va a utilizar. 
+							Para quienes desean aprovechar más sus tableros, existen <strong>potenciadores</strong>, 
+							como el calendario, el vencimiento de la tarjeta y las votaciones, que puede activar. 
+							Es una manera de ofrecer más sin atestarlo de cosas para todos.</p>
+					</article>
+					<br /> <br />
+					</div>
+				</div>
+				
+				<div id="imgVector" align="center">
+					<img src="images/home-power-up-icons.png" />
+					<br /> <br />
+				</div>
+			</section>
+			<!--FIN DE SECCION 5-->
+			
+			<!--SECCION 6-->
+			<section id="parte6">
+				<div id="texto6" align="center">
+					<article>
+						<p><strong>A millones de personas</strong> y a empresas de todos los tipos y tamaños 
+							les encanta utilizar Trello.</p>
+					</article>
+				</div>
+				<div id="6elemen" align="center">
+						<img src="images/freshdirect.svg" />
+						<img src="images/thenewyorktimes.svg" />
+						<img src="images/53.svg" />
+						<img src="images/theverge.svg" />
+						<img src="images/adobe.svg" />
+						<img src="images/tumblr.svg" />
+				</div>
+				<div id="3elemen" align="center">
+					<img src="images/google.svg"/>
+					<img src="images/paypal.svg"/>
+					<img src="images/kickstarter.svg"/>
+					<br /> <br /> <br /> <br /> 
+				</div>
+			</section>
+			<!--FIN DE SECCION 6-->
+			
+			<!--SECCION 7-->
+			<section id="parte7">
+				<div id="business" align="center">
+					<img src="images/business-class-logo-white.svg" />
+				</div>
+				<div id="texto7">
+					<article>
+						<p>¿Su empresa u organización necesita controles administrativos
+							adicionales y una potencia superior de equipo? Hemos creado 
+							<strong>Business Class</strong> para usted.</p>
+					</article>
+					<br /> <br /> <br /> <br /> <br /> 
+				</div>
+				<div id="boton7">
+					<button>Más información acerca de Business Class</button>
+					<br /> <br /> <br /> <br /> <br /> 
+				</div>
+			</section>
+			<!--FIN DE SECCION 7-->
+			
+			<!--SECCION 8-->
+			<section id="parte8">
+				<div id="registro" align="center">
+					<article>
+						<p><strong>Descarte las notas rápidas, hojas de cálculo, correo electrónico 
+							y el software inadecuado</strong> para gestionar sus proyectos y pase a 
+							ser una de los millones de personas que se han quedado prendadas 
+							de Trello. Puede añadir tantos tableros y tantas personas como 
+							desee con su cuenta gratuita.</p>
+					</article>
+				</div>
+				<div id="botonRegistro" align="center">
+					<button>Regístrese.¡Es gratis!</button>
+					<br /> <br /> <br /> <br /> <br /> 
+				</div>
+			</section>
+			<!--FIN DE SECCION 8-->
+			
+			<!--SECCION 9-->
+			<section id="parte9">
+				<div id="huskycontiene" align="center">
+				<div id="husky" align="center">
+					<img src="images/home-taco.png" />
+					<br /> <br /> <br /> <br />
+				</div>
+				<div id="txtHusky" align="center">
+					<article>
+						<p>Oh, y este es <strong>Taco, nuestro husky portavoz.</strong>
+							Lo verá por aquí.</p>
+							<br /> <br /> <br /> <br />
+					</article>
+				</div>
+				</div>
+			</section>
+			<!--FIN DE SECCION 9-->
+			
+			<!--SECCION 10-->
+			<footer>
+			<section id="parte10">
+				<div id="ultimo">
+					<div id="links" align="center">
+						<li><a href="#">Visita guiada</a></li>
+						<li><a href="#">Precios</a></li>
+						<li><a href="#">Aplicaciones</a></li>
+						<li><a href="#">Trabajos</a></li>
+						<li><a href="#">Blog</a></li>
+						<li><a href="#">Desarrolladores</a></li>
+						<li><a href="#">Acerca de</a></li>
+						<li><a href="#">Ayuda</a></li>
+						<li><a href="#">Legal</a></li>
+					</div>
+					<div id="derechos" align="center">
+						<article>
+							<p>© Derechos de autor de 2016 Trello, Inc. Todos los derechos reservados.</p>
+						</article>
+					</div>
+					<div id="condiciones"align="center">
+						<article>
+							<p>Algunas partes de esta página han sido traducidas automáticamente por <a href="#">Google Translate.</a>
+								Actualmente, traductores humanos se están encargando de traducir esas partes lo más 
+								rápido posible. Aquí puede leer<a href="#">declinación de responsabilidades por traducción automática.</a></p>
+							<br /> <br /> <br /> <br />
+						</article>
+					</div>
+				</div>
+			</section>
+			</footer>
+			<!--FIN DE SECCION 10-->
+		</body>
+		
+	</div>
+	
+</html>
