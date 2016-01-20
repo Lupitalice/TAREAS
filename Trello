@@ -72,7 +72,6 @@
 							y todo se actualiza en tiempo real. No hay nada que configurar y todo 
 							el mundo lo obtiene al instante.</p>
 						<!--espacio debajo del texto-->
-						<br /> <br /> <br />
 					</article>
 				</div>
 			</section>
@@ -102,33 +101,23 @@
 			
 			<!--SECCION 4-->
 			<section id="parte4">
-				<div id="Elementos" align="left">
-					<div id="articleElementos">
+				<div id="Elementos">
 						<article>
-							<br /> <br>
 							<p>Trello permanece perfectamente sincronizado en todos sus dispositivos allá donde esté.
 								Hay aplicaciones rápidas e intuitivas para la web, los teléfonos y las tabletas Android, 
 								iPhone y iPad, y Kindle Fire.</p>
 						</article>
-					</div>
-					<div id="imagenes" align="center">
-						<div id="imgAppStore" align="center">
+					<div id="imagenes">
 							<img src="images/app-store-badge_es.svg" />
-						</div>
-						<div id="imgGoogleplay" align="center">
 							<img src="images/play-store-badge_es.png" />
-						</div>
 					</div>
-					<div id="boton" align="center">
+					<div id="boton">
 						<button>Ver todas las aplicaciones</button>
-						<br /> <br /> <br /> <br />
 					</div>
 				</div>
 				
 				<div id="imagenDispositivos" align="right">
-					<br /> <br />
 					<img src="images/home-devices.png" />
-					<br /> <br /> <br /> <br />
 				</div>
 			</section>
 			<!--FIN DE SECCION 4-->
@@ -143,13 +132,11 @@
 							como el calendario, el vencimiento de la tarjeta y las votaciones, que puede activar. 
 							Es una manera de ofrecer más sin atestarlo de cosas para todos.</p>
 					</article>
-					<br /> <br />
 					</div>
 				</div>
 				
 				<div id="imgVector" align="center">
 					<img src="images/home-power-up-icons.png" />
-					<br /> <br />
 				</div>
 			</section>
 			<!--FIN DE SECCION 5-->
@@ -162,7 +149,7 @@
 							les encanta utilizar Trello.</p>
 					</article>
 				</div>
-				<div id="6elemen" align="center">
+				<div id="elemen6" align="center">
 						<img src="images/freshdirect.svg" />
 						<img src="images/thenewyorktimes.svg" />
 						<img src="images/53.svg" />
@@ -170,11 +157,10 @@
 						<img src="images/adobe.svg" />
 						<img src="images/tumblr.svg" />
 				</div>
-				<div id="3elemen" align="center">
+				<div id="elemen3" align="center">
 					<img src="images/google.svg"/>
 					<img src="images/paypal.svg"/>
 					<img src="images/kickstarter.svg"/>
-					<br /> <br /> <br /> <br /> 
 				</div>
 			</section>
 			<!--FIN DE SECCION 6-->
@@ -190,11 +176,9 @@
 							adicionales y una potencia superior de equipo? Hemos creado 
 							<strong>Business Class</strong> para usted.</p>
 					</article>
-					<br /> <br /> <br /> <br /> <br /> 
 				</div>
 				<div id="boton7">
 					<button>Más información acerca de Business Class</button>
-					<br /> <br /> <br /> <br /> <br /> 
 				</div>
 			</section>
 			<!--FIN DE SECCION 7-->
@@ -212,7 +196,6 @@
 				</div>
 				<div id="botonRegistro" align="center">
 					<button>Regístrese.¡Es gratis!</button>
-					<br /> <br /> <br /> <br /> <br /> 
 				</div>
 			</section>
 			<!--FIN DE SECCION 8-->
@@ -222,13 +205,11 @@
 				<div id="huskycontiene" align="center">
 				<div id="husky" align="center">
 					<img src="images/home-taco.png" />
-					<br /> <br /> <br /> <br />
 				</div>
-				<div id="txtHusky" align="center">
+				<div id="txtHusky">
 					<article>
 						<p>Oh, y este es <strong>Taco, nuestro husky portavoz.</strong>
 							Lo verá por aquí.</p>
-							<br /> <br /> <br /> <br />
 					</article>
 				</div>
 				</div>
@@ -259,8 +240,7 @@
 						<article>
 							<p>Algunas partes de esta página han sido traducidas automáticamente por <a href="#">Google Translate.</a>
 								Actualmente, traductores humanos se están encargando de traducir esas partes lo más 
-								rápido posible. Aquí puede leer<a href="#">declinación de responsabilidades por traducción automática.</a></p>
-							<br /> <br /> <br /> <br />
+								rápido posible. Aquí puede leer <a href="#">declinación de responsabilidades por traducción automática.</a></p>
 						</article>
 					</div>
 				</div>
