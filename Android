@@ -1,0 +1,254 @@
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="UTF-8" />
+		<title>Android</title>
+		<link rel="stylesheet" href="css/estiloandroid.css" />
+	</head>
+	
+	<body>
+		<div class="container" id="contenedor">
+			<!--HEADER-->
+			<header>
+				<div id="cabeza">
+					<div id="imgAndroid">
+						<img src="images/android-wordmark-8EC047.png" />
+					</div>
+					<div id="select">
+						<li><select name="descubrir">
+						<option value="1">DESCUBRIR</option>
+						<option value="2">Historia de Android</option>
+						<option value="3">Marshmallow</option>
+						<option value="4">Cambiar a Android</option>
+					</select></li>
+					<li><select name="dispositivos">
+						<option value="1">DISPOSITIVOS</option>
+						<option value="2">Teléfonos</option>
+						<option value="3">Tablets</option>
+						<option value="4">Wear</option>
+						<option value="5">TV</option>
+						<option value="6">Auto</option>
+					</select></li>
+					<li><a href="#">PLAY</a></li>
+					<li><select name="mas">
+						<option value="1">MÁS</option>
+						<option value="2">Vista previa de Android M para programadores</option>
+						<option value="3">Recursos para programadores de Android</option>
+						<option value="4">Proyecto de código abierto de Android</option>
+					</select></li>
+						<li><img src="images/lupa.png" /></li>
+					</div>	                  
+				</div>
+			</header>
+			<!--FIN DE HEADER-->
+			
+			<!--SECCION 1-->
+			<!--Poner de fondo en la seccion la imagen ¿?-->
+			<section id="parte1">
+				<div id="bombones">
+					<img src="images/version-1600.jpg" />
+				</div>
+				
+				<div id="tituloUno">
+					<article>
+						<h1>Android 6.0 Marshmallow</h1>
+					</article>
+				</div>
+				
+				<div id="texto">
+					<article>
+						<p>Toda una delicia</p>
+					</article>
+				</div>
+				
+				<div id="linkUno">
+					<li><a href="#">MÁS INFORMACIÓN</a></li>
+				</div>
+				
+				<!--Circulo boton-->
+				<div id="dango">
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 1-->
+			
+			<!--SECCION 2-->
+			<section id="parte2">
+				<div id="tituloDos">
+					<article>
+						<h1>Tecnología para pantallas de todos los tamaños</h1>
+					</article>
+				</div>
+				
+				<div id="textoDos">
+					<article>
+						<p>Android es el sistema operativo personalizable y fácil 
+							de utilizar que incluyen más de mil millones de 
+							dispositivos de todo el mundo, como teléfonos, 
+							tablets, relojes, televisores, coches y otros en 
+							los que se utilizará en el futuro.</p>
+					</article>
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 2-->
+			
+			<!--SECCION 3-->
+			<section id="parte3">
+				<div id="telecarro">
+					<img src="images/wear-black-on.png" />
+					<img src="images/wear-silver-on.png" />
+					<img src="images/nexus6-on.jpg" />
+					<img src="images/nexus9-on.jpg" />
+					<img src="images/tv-on.jpg" />
+					<img src="images/auto-on_mobile.jpg"/>
+				</div>
+				
+				<div id="pieTelecarro">
+					<li><a href="#">ANDROID WEAR</a></li>
+					<li><a href="#">TELÉFONOS</a></li>
+					<li><a href="#">TABLETS</a></li>
+					<li><a href="#">ANDROID TV</a></li>
+					<li><a href="#">ANDROID AUTO</a></li>
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 3-->
+			
+			<!--SECCION 4 -->
+			<section id="parte4">
+				<div id="imgManos">
+					<img src="images/wear3-1600.png" />
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 4-->
+			
+			<!--SECCION 5 -->
+			<section id="parte5">
+				<div id="tituloCinco">
+					<article>
+						<h1>Con lo mejor de Google</h1>
+					</article>
+				</div>
+				
+				<div id="textoCinco">
+					<article>
+						<p>Android se integra perfectamente con todas tus 
+							aplicaciones favoritas, como Google Maps, Calendar, 
+							Gmail y YouTube.</p>
+					</article>
+				</div>
+				
+				<div id="linkCinco">
+					<li><a href="#">DESCUBRE LAS NOVEDADES > </a></li>
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 5-->
+			
+			<!--SECCION 6-->
+			<section id="parte6">
+				<div id="tituloSeis">
+					<article>
+						<h1>Totalmente personalizable</h1>
+					</article>
+				</div>
+				
+				<div id="textoSeis">
+					<article>
+						<p>Consulta los contenidos que más te interesen en la 
+							pantalla de inicio, como las últimas noticias, la 
+							información meteorológica o las últimas fotos que has hecho.</p>
+					</article>
+				</div>
+				
+				<div id="linkSeis">
+					<li><a href="#">Personaliza tu teléfono</a></li>
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 6-->
+			
+			<!--SECCION 7-->
+			<section id="parte7">
+				<div id="imagenCelulares">
+					<img src="images/devices.jpg" />
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 7-->
+			
+			<!--SECCION 8-->
+			<section id="parte8">
+				<div id="tituloOcho">
+					<article>
+						<h1>Más novedades de Android</h1>
+					</article>
+				</div>
+				
+				<div id="articles">
+					<!--1-->
+					<div id="articleOne">
+						<img src="images/more-from-1.png"/>
+						<h1>Ponte en marcha con Android</h1>
+						<p>Cuatro sugerencias para que tu cambio a Android sea más rápido.</p>
+						<a href="#">HACER EL CAMBIO > </a>
+					</div>
+					<!--2-->
+					<div id="articleTwo">
+						<img src="images/more-from-4.png"/>
+						<h1>Crea tu propio personaje de Android</h1>
+						<p>Transforma a la pequeña mascota verde de Android en ti, en tus amigos o en cualquier persona.</p>
+						<a href="#">ANDROIDIFY.COM > </a>
+					</div>
+					<!--3-->
+					<div id="articleTree">
+						<img src="images/more-from-2.png"/>
+						<h1>Obtén una pantalla principal personalizable y ordenada</h1>
+						<p>Una pantalla principal prolija, simple y personalizable que ofrece la tecnología de Google Now, como alertas de tráfico, clima y mucho más, con solo deslizar el dedo por ella.</p>
+						<a href="#">DESCARGAR AHORA > </a>
+					</div>
+					<!--4-->
+					<div id="articleFour">
+						<img src="images/more-from-3.png"/>
+						<h1>Millones de opciones para elegir</h1>
+						<p>Parar un taxi, encontrar una receta o recorrer un templo: Google Play cuenta con todas las aplicaciones y los juegos que harán que tu dispositivo Android sea exclusivamente tuyo.</p>
+						<a href="#">BUSCAR APLICACIONES > </a>
+					</div>
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 8-->
+			
+			<!--SECCION 9-->
+			<section id="parte9">
+				<div id="linkNueve">
+					<a href="#">Volver al principio</a>
+				</div>
+				
+				<div id="imgLogos">
+					<img src="images/footer-s97b46602f4.png" />
+				</div>
+				
+				<div id="info">
+					<p>Imágenes satelitales: © 2014 Astrium, DigitalGlobe</p>
+				</div>
+				
+				<div id="info2">
+					<p>Es posible que algunas características y algunos dispositivos no estén disponibles en todas las áreas.</p>
+				</div>
+			</section>
+			<!--FIN DE LA SECCION 9-->
+			
+			<footer>
+				<div id="footer">
+					<img src="images/googleLogo.png" />
+					<select name="Versiones">
+						<option value="1">Versiones</option>
+					</select>
+					<select name="Para">
+						<option value="1">Para programadores</option>
+					</select>
+					<a href="#">Blog</a>
+					<a href="#">Política de privacidad</a>
+					<select name="idiomas">
+						<option value="1">México-español</option>
+					</select>
+				</div>
+			</footer>
+		</div>
+	</body>
+</html>
